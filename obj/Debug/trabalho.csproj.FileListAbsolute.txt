@@ -1,0 +1,22 @@
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.csproj.AssemblyReference.cache
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.csproj.SuggestedBindingRedirects.cache
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.Form1.resources
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.Properties.Resources.resources
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.csproj.GenerateResource.cache
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.csproj.CoreCompileInputs.cache
+C:\Users\fefee\source\repos\trabalho\bin\Debug\trabalho.exe.config
+C:\Users\fefee\source\repos\trabalho\bin\Debug\trabalho.exe
+C:\Users\fefee\source\repos\trabalho\bin\Debug\trabalho.pdb
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.exe
+C:\Users\fefee\source\repos\trabalho\obj\Debug\trabalho.pdb
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\bin\Debug\trabalho.exe.config
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\bin\Debug\trabalho.exe
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\bin\Debug\trabalho.pdb
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.csproj.SuggestedBindingRedirects.cache
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.Form1.resources
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.Properties.Resources.resources
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.csproj.GenerateResource.cache
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.exe
+D:\SteamLibrary\steamapps\common\Rocksmith2014\dlc\cdlc\L0rd kha0s\trabalho\obj\Debug\trabalho.pdb
